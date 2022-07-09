@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "HRFMBACK",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
